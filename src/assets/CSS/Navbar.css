@@ -1,0 +1,28 @@
+.custom-navbar {
+    background-color: #fff;
+    /* padding: 20px 50px; */
+}
+
+.custom-navbar .navbar-brand {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
+}
+
+.custom-navbar .nav-link {
+    font-size: 1.2em;
+    color: #333;
+    /* margin-right: 20px; */
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ff6b6b;
+}
+
+.custom-navbar .navbar-toggler {
+    border: none;
+}
+
+.custom-navbar .navbar-toggler-icon {
+    background-image: url('https://via.placeholder.com/30x30');
+}
